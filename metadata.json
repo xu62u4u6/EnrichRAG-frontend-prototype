@@ -1,0 +1,5 @@
+{
+  "name": "EnrichRAG",
+  "description": "A research-oriented, literature-augmented gene set enrichment analysis interface focusing on clarity and integration.",
+  "requestFramePermissions": []
+}
